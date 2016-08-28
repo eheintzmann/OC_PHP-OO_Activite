@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<definitions>
+  <define var="nombre_news" value="5" />
+  <define var="nombre_caracteres" value="200" />
+  <define var="index_caching_time" value="30" />
+  <define var="show_caching_time" value="0" />
+  <define var="insert_comment_caching_time" value="0" />
+</definitions>

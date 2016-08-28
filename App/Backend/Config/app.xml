@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<definitions>
+  <define var="login" value="admin" />
+  <define var="pass" value="mdp" />
+  <define var="index_caching_time" value="0" />
+  <define var="delete_caching_time" value="0" />
+  <define var="delete_comment_caching_time" value="0" />
+  <define var="insert_caching_time" value="0" />
+  <define var="update_caching_time" value="0" />
+  <define var="update_comment_caching_time" value="0" />
+  <define var="connexion_caching_time" value="0" />
+</definitions>
